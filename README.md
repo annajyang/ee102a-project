@@ -30,16 +30,8 @@ audio-to-oscilloscope/
   wav_input.py         # Stereo WAV input
   filtering.py         # Band separation and frequency shifting
   display.py           # XY oscilloscope display
-data/
-  drawings/            # Example drawing inputs
-  audio/               # Example and generated stereo WAV files
-demo/                  # Video demo assets
 requirements.txt       # Python dependencies
 ```
-
-The Python files are scaffolding only; signal processing and UI behavior are
-not implemented yet. Both programs must use the same carrier frequencies,
-bandwidths, and coordinate conventions when implemented.
 
 ## Setup
 
