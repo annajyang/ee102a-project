@@ -1,0 +1,4 @@
+# Numerical signal processing, WAV I/O, and drawing/display UI.
+numpy
+scipy
+matplotlib
